@@ -8,7 +8,7 @@ Program already contains two generated CSV files with result output at location 
 profitCalculator\src\main\resources
 
 Program contains 2 object classes - InvestmentInformation and GeneratedProfitInformation
-and 2 method classes - InputProcessing nad ProfitCalculator.
+and 2 method classes - InputProcessing and ProfitCalculator.
 
 InputProcessing class contains getInformation method which takes console input information and generates object.
 
